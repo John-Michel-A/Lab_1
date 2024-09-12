@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Valentino
-=======
 John
->>>>>>> 35f133da08fbe24de601fba50ea1800c7a9e8806
+#Comment By max :Max
+Valentino was here
